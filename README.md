@@ -6,7 +6,7 @@ This was a project I followed along with for the [Modern React and Redux](https:
 > ### 1. Clone the repo.
 
 ```shell
-git clone https://github.com/bbcharlton/React_Fat_Blog.git
+git clone https://github.com/bbcharlton/React_Simple_Blog.git
 ```
 
 > ### 2. Install dependencies.
